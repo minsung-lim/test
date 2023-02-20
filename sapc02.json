@@ -1,7 +1,7 @@
 {
 	"questions": [
 		{
-			"question": "A company needs to architect a hybrid DNS solution. This solution will use an Amazon Route 53 private hosted zone for the domain cloud.example.com for the resources stored within VPCs. The company has the following DNS resolution requirements:\n- On-premises systems should be able to resolve and connect to cloud.example.com.\n- All VPCs should be able to resolve cloud.example.com.\n- There is already an AWS Direct Connect connection between the on-premises corporate network and AWS Transit Gateway.\n- Which architecture should the company use to meet these requirements with the HIGHEST performance?",
+			"question": "A company needs to architect a hybrid DNS solution. This solution will use an Amazon Route 53 private hosted zone for the domain cloud.example.com for the resources stored within VPCs. The company has the following DNS resolution requirements:<br/>  - On-premises systems should be able to resolve and connect to cloud.example.com.<br/>  - All VPCs should be able to resolve cloud.example.com.<br/>  - There is already an AWS Direct Connect connection between the on-premises corporate network and AWS Transit Gateway.<br/>  - Which architecture should the company use to meet these requirements with the HIGHEST performance?",
 			"choices": [
 				{
 					"case": "A",
